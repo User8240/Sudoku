@@ -1,17 +1,19 @@
-# (Application Name)
+# Sudoku
 
-#### (Brief Description of Application)
+#### A webpage that checks the validity of a completed Sudoku board
 
-#### By (Your Name Here)
+#### By Grace Kostanich, Alex Shevlin, & Tyler Emmerson 
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _Markdown_
 
 ## Description
+
+_This is a webpage written in HTML using JavaScript & JQuery for functionality, along with CSS and BootStrap for styling._
 
 ## Setup/Installation Requirements
 
@@ -26,9 +28,10 @@
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known issues_
 
 ## License
 
-## Contact Information
+_none_
+
+Copyright (c) _6/22/2022_ _Grace Kostanich, Alex Shevlin, & Tyler Emmerson_
